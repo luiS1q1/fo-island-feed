@@ -1,0 +1,7 @@
+{
+  "active": true,
+  "text": "Fo: LineageOS-Build laeuft",
+  "progress": 62,
+  "image": "https://raw.githubusercontent.com/luiS1q1/fo-island-feed/main/cards/progress-demo.png",
+  "note": "Demo zum Testen. active=false, wenn Luis es bestätigt."
+}

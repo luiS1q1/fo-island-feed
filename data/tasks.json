@@ -1,0 +1,8 @@
+{
+  "updated": "2026-10-11T11:30:00+02:00",
+  "items": [
+    {"id": "fo-lehmann", "kind": "image", "text": "Fo: Antwort an Frau Lehmann bis Mi, 14. Okt", "image": "https://raw.githubusercontent.com/luiS1q1/fo-island-feed/main/cards/reminder-lehmann.png"},
+    {"id": "fo-miri", "kind": "text", "text": "Fo: Geschenk fuer Miri bis Di, 27. Okt"},
+    {"id": "fo-french", "kind": "text", "text": "Fo: Franzoesisch-Vokabeln, 15 Min"}
+  ]
+}
